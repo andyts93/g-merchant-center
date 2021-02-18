@@ -1,1 +1,1 @@
-# g-merchant-center
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/andyts93/g-merchant-center?style=for-the-badge) ![Codacy grade](https://img.shields.io/codacy/grade/e2a76493cc254f9180a12c2ab4241146?style=for-the-badge)
